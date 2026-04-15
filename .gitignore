@@ -1,0 +1,2 @@
+# Set Census API key (user should configure this)
+# census_api_key("b977d1ca765aac09822cf0d836d1a471d1bc1098", install = TRUE)
