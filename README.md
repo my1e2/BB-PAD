@@ -1,5 +1,5 @@
 # BB-PAD
-Capstone Distance-Polling-Analsys 
+Capstone Distance-Polling-Analysis 
 
 Packages Necessary: 
 
