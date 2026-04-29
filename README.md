@@ -1,4 +1,7 @@
 # BB-PAD
+
+ALL CODE AND DOCUMENTATION HAS BEEN MOVED INTO MAWA's github with me as the contributor!
+
 Capstone Distance-Polling-Analysis 
 
 Packages Necessary: 
